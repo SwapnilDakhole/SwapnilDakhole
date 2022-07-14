@@ -1,6 +1,4 @@
-[![TakshakRamteke](./images/banner.png)](https://takshakramteke.github.io)
-
-## Hey There :wave:, I'm Takshak Ramteke
+## Hey There :wave:, I'm Swapnil Dakhole
 
 **Here's a litle about me** <br/>
 :person_curly_hair: I'm A Fun Loving, Enthusiastic & Passionate Developer <br/>
@@ -51,10 +49,10 @@ but it's not like i do tech all the time
 <br/>
 
 ### 📈 And ofcourse Some Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=tokyonight&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilDakhole&langs_count=8&theme=tokyonight&layout=compact"/>
 <p>
-    <img width=46% src="https://github-readme-stats.vercel.app/api?username=TakshakRamteke&show_icons=true&theme=tokyonight" />
-    <img width=46% src="https://github-readme-streak-stats.herokuapp.com/?user=TakshakRamteke&theme=tokyonight" />
+    <img width=46% src="https://github-readme-stats.vercel.app/api?username=SwapnilDakhole&show_icons=true&theme=tokyonight" />
+    <img width=46% src="https://github-readme-streak-stats.herokuapp.com/?user=SwapnilDakhole&theme=tokyonight" />
 </p>
 
 *BTW Here's [my resume](https://drive.google.com/file/d/1TB2LpyWScNBK34Vz4w1FFhVWBpFu4Pve/view?usp=sharing)*
