@@ -2,8 +2,8 @@
 
 **Here's a litle about me** <br/>
 Hey there I am Swapnil Dakhole curently <br>
-I am pursuing computer science of engineering from SBJIMR,<br>
-Also I am a Cricket fan
+I complted computer science of engineering from SBJIMR,<br>
+Now, I am working in Cybage Software PVT as Software Engineer
 
 ### 🤙 Connect with me:
 
