@@ -21,57 +21,64 @@ I’m a passionate backend developer with strong experience in **Java and Spring
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-**Languages**  
-- Java (Primary)  
-- Python  
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java"/>
+  <img src="https://skillicons.dev/icons?i=python"/>
+</p>
 
-**Frameworks**  
-- Spring Boot  
-- Angular  
+### 🧩 Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=spring"/>
+  <img src="https://skillicons.dev/icons?i=angular"/>
+</p>
 
-**Backend / Databases**  
-- Microservices  
-- REST APIs  
-- Hibernate, JDBC  
-- MySQL, PostgreSQL  
-- DynamoDB, AWS RDS  
+### 🗄️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=postgres"/>
+  <img src="https://skillicons.dev/icons?i=dynamodb"/>
+  <img src="https://skillicons.dev/icons?i=hibernate"/>
+</p>
 
-**Distributed Systems**  
-- Docker  
-- Kubernetes  
-- Kafka  
-- WebSockets  
+<p>
+  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS_RDS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-**Cloud & Tools**  
-- AWS  
-- Git, GitHub  
-- Postman  
-- DBeaver  
-- CI/CD Pipelines  
-- JUnit  
-- Swagger (OpenAPI)  
+### 🌐 Distributed Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=kafka"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/WebSockets-4F4F4F?style=for-the-badge"/>
+</p>
+
+### ☁️ Cloud & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws"/>
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=postman"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
+
 
 ---
 
-### 📊 GitHub Stats
-
-> ⚠️ If images don’t load immediately, refresh the page once (GitHub caching issue)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwapnilDakhole&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwapnilDakhole&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilDakhole&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 📈 GitHub Commit Activity
 
