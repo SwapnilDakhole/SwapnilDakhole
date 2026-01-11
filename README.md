@@ -21,36 +21,66 @@ I’m a passionate backend developer with strong experience in **Java and Spring
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages**  
+- Java (Primary)  
+- Python  
+
+**Frameworks**  
+- Spring Boot  
+- Angular  
+
+**Backend / Databases**  
+- Microservices  
+- REST APIs  
+- Hibernate, JDBC  
+- MySQL, PostgreSQL  
+- DynamoDB, AWS RDS  
+
+**Distributed Systems**  
+- Docker  
+- Kubernetes  
+- Kafka  
+- WebSockets  
+
+**Cloud & Tools**  
+- AWS  
+- Git, GitHub  
+- Postman  
+- DBeaver  
+- CI/CD Pipelines  
+- JUnit  
+- Swagger (OpenAPI)  
 
 ---
 
-### 📊 GitHub Stats & Commit Activity
+### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilDakhole&langs_count=8&theme=tokyonight&layout=compact"/>
+> ⚠️ If images don’t load immediately, refresh the page once (GitHub caching issue)
 
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SwapnilDakhole&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SwapnilDakhole&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwapnilDakhole&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwapnilDakhole&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilDakhole&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📈 Contribution Graph (Commit Status)
+### 📈 GitHub Commit Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SwapnilDakhole&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SwapnilDakhole&theme=tokyo-night&hide_border=true" />
 
 ---
 
 ### 📄 Resume
-🔗 [View My Resume](https://drive.google.com/file/d/1TB2LpyWScNBK34Vz4w1FFhVWBpFu4Pve/view?usp=sharing)
+🔗 [View My Resume](https://drive.google.com/file/d/1TB2LpyWScNBK34Vz4w1FFhVWBpFu4Pve/view)
 
 ---
 
