@@ -1,35 +1,57 @@
-## Hey There :wave:, I'm Swapnil Dakhole
+## 👋 Hey There, I'm Swapnil Dakhole
 
-**Here's a litle about me** <br/>
-Hey there I am Swapnil Dakhole curently <br>
-I complted computer science of engineering from SBJIMR,<br>
-Now, I am working in Cybage Software PVT as Software Engineer
+🚀 **Software Engineer at Cybage Software Pvt. Ltd.**  
+💻 **Java Backend Developer | Spring Boot | Microservices | AWS**
 
-### 🤙 Connect with me:
+I’m a passionate backend developer with strong experience in **Java and Spring Boot**, focused on building **scalable, high-performance, and cloud-native applications**. I enjoy designing clean REST APIs, optimizing backend logic, and working on real-world enterprise systems.
 
-<!--<a href="https://twitter.com/SwapnilDakhole">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>-->
+🎓 **B.E. in Computer Science Engineering** from **SBJIMR**  
+🌱 Currently learning **Cloud Architecture, Reactive Programming, and System Design**
+
+---
+
+### 🤙 Connect with Me
 
 <a href="mailto:swapnildakhole242@gmail.com?subject=Hello%20Swapnil,">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/SwapnilDakhole/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/swapnildakhole.45/">
-    <img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+---
 
-<br/>
+### 🛠️ Tech Stack
 
-### 📈 And ofcourse Some Stats
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats & Commit Activity
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilDakhole&langs_count=8&theme=tokyonight&layout=compact"/>
+
 <p>
-    <img width=46% src="https://github-readme-stats.vercel.app/api?username=SwapnilDakhole&show_icons=true&theme=tokyonight" />
-    <img width=46% src="https://github-readme-streak-stats.herokuapp.com/?user=SwapnilDakhole&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SwapnilDakhole&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SwapnilDakhole&theme=tokyonight" />
 </p>
 
-*BTW Here's [my resume](https://drive.google.com/file/d/1TB2LpyWScNBK34Vz4w1FFhVWBpFu4Pve/view?usp=sharing)*
+---
+
+### 📈 Contribution Graph (Commit Status)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SwapnilDakhole&theme=tokyo-night" />
+
+---
+
+### 📄 Resume
+🔗 [View My Resume](https://drive.google.com/file/d/1TB2LpyWScNBK34Vz4w1FFhVWBpFu4Pve/view?usp=sharing)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
